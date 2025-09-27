@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- <script> alert(1)</script> -->
+    <!-- <script src="data:,alert(1)%250A--"> </script> -->
+
+    <!-- <img src="/vars.txt" alt="cant shown"> -->
+     <a href="test">a</a>
+</body>
+</html>
