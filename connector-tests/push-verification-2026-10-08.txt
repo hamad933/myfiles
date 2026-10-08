@@ -1,0 +1,6 @@
+GitHub connector write verification
+Date: 2026-10-08
+Repository: hamad933/myfiles
+Branch: connector-capability-test-20261008
+Purpose: verify a real commit/push-equivalent via the GitHub connector.
+Scope: test branch only; main unchanged.
