@@ -1,0 +1,32 @@
+{
+  "project": "Cybersecurity Education Platform",
+  "task": "CEP_COMPLETE_CURRENT_PRODUCT_VISUAL_REVIEW_CAPTURE",
+  "status": "PARTIAL_VISUAL_REVIEW_CAPTURE__SOURCE_SNAPSHOT_NOT_PUBLISHED",
+  "checkpoint": {
+    "label": "B47",
+    "generation": 47,
+    "source_inventory_sha256": "7442f67ed0ff5d530395ce0a6988d609c98e4b5246689efb140096347ad8113d",
+    "library_archive_sha256": "ca0bff1c9527e0f15cf5b2c737fb158647bd07af1be9087b17b488601c0fed15",
+    "sanitized_local_render_source_archive_sha256": "876cebcf9195e1a569ccc63dd387dcace6872c73440285505c804383edadbba8"
+  },
+  "capture_summary": {
+    "covered_product_surfaces": 23,
+    "additional_notes_utility": 1,
+    "unique_screenshot_files_checked": 124,
+    "duplicates_excluded": 2,
+    "unverified_states_recorded": true,
+    "browser_transport": "in-memory B47 HTML/CSS/JS with live isolated CEP backend API forwarding",
+    "database": "isolated original-derived CEP SQLite, not published"
+  },
+  "publication": {
+    "repository": "hamad933/myfiles",
+    "branch": "cep/visual-review/b47-20261017-7442f67e",
+    "github_committed_source_equivalence": false,
+    "reason": "Connector cannot publish local binary archive and local runtime cannot connect to GitHub; branch is identity/staging only, not full source snapshot"
+  },
+  "security": {
+    "private_SQLite_uploaded": false,
+    "credentials_uploaded": false,
+    "private_evidence_uploaded": false
+  }
+}
